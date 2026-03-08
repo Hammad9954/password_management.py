@@ -1,2 +1,4 @@
 # password_management.py
-a simple python program for password management using encryption method
+A simple Python-based password manager that stores passwords securely using encryption.
+
+This project demonstrates basic file handling, encryption using cryptography.fernet, and user interaction via the console.
